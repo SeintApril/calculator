@@ -11,5 +11,4 @@ learnt about auto layout, stack views and setting constraints, create the follow
 ## Landscape
 ![Landscape](Documentation/Landscape.png)
 
-![End Banner](Documentation/readme-end-banner.png)
 
